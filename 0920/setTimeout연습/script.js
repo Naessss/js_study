@@ -22,3 +22,5 @@ document.querySelector('.btn').addEventListener('click', () => {
   }, 5000);
 
 });
+
+console.log('그냥 추가함');
